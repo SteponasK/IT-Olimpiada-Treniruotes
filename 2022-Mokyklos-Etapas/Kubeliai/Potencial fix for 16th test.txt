@@ -1,0 +1,1 @@
+Padaryti, kad vietoj "std::cout << -1", padarytu kad eina is naujo per loopa, bet su kitom values (kaip tree).
