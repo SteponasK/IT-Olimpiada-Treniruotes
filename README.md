@@ -15,7 +15,7 @@
     │
     ├── 📄 main.cpp
 ```
-## Pabandykite iššpresti šias užduotis ir tik tada pasižiūrėkite į sprendimą 😊
+## Pabandykite išspręsti šias užduotis ir tik tada pasižiūrėkite į sprendimus 😊
 
 
 ## 👑 Autorius
