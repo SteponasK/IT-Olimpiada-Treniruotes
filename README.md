@@ -1,6 +1,6 @@
 # Šalies Informatikos Olimpiados Treniruotės
 
-- Užduotys, kurias išsprendžiau ruošdamasis Lietuvos Mokinių Informatikos Olimpiados (LMIO) __šalių__  ir __miesto__  etapams.
+- Užduotys, kurias išsprendžiau ruošdamasis Lietuvos Mokinių Informatikos Olimpiados (LMIO) __šalies__  ir __miesto__  etapams.
 
 ## 🌳 Užduoties aplanko struktūra
 ```shell
